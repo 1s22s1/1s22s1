@@ -1,16 +1,22 @@
-### Hi there 👋
+## Skills
 
-<!--
-**1s22s1/1s22s1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Linux
+  - Docker
+- Cloud
+  - Heroku
+- Database
+  - MySQL
+  - Redis
+- HTML/CSS
+- JavaScript
+  - React
+- Ruby
+  - Ruby on Rails
 
-Here are some ideas to get you started:
+## GitHub status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![1s22s1's GitHub stats](https://github-readme-stats.vercel.app/api?username=1s22s1&theme=synthwave)](https://github.com/1s22s1)
+
+## Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1s22s1)](https://github.com/anuraghazra/github-readme-stats)
