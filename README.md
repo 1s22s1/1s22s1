@@ -19,4 +19,4 @@
 
 ## Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1s22s1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1s22s1)](https://github.com/1s22s1)
