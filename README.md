@@ -9,6 +9,7 @@
   - Redis
 - HTML/CSS
 - JavaScript
+  - Vue.js
   - React
 - Ruby
   - Ruby on Rails
