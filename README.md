@@ -4,14 +4,6 @@ I'm interested in mathematical modeling (ex-mathematician). Now, I am making eff
 
 ## Skills
 
-- Linux
-  - Docker
-- Cloud
-  - Heroku
-- Database
-  - MySQL
-  - Redis
-- HTML/CSS
 - JavaScript
   - Vue.js
   - React
