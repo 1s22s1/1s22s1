@@ -1,6 +1,6 @@
 ## About
 
-数理モデル(元数学屋さん)、に興味がありますが、、、今は昔。フロントエンジニアとして日々奮闘中。
+I'm interested in mathematical modeling (ex-mathematician). Now, I am making effort as a front-end engineer.
 
 ## Skills
 
