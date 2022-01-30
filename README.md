@@ -10,6 +10,12 @@ I'm interested in mathematical modeling (ex-mathematician). Now, I am making eff
 - Ruby
   - Ruby on Rails
 
+## Interests
+
+- JavaScript
+- Go
+- Julia 
+
 ## GitHub status
 
 [![1s22s1's GitHub stats](https://github-readme-stats.vercel.app/api?username=1s22s1&theme=synthwave)](https://github.com/1s22s1)
