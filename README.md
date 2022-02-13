@@ -1,20 +1,16 @@
 ## About
 
-I'm interested in mathematical modeling (ex-mathematician). Now, I am making effort as a front-end engineer.
+I'm interested in Mathematical model (ex-mathematician). Now, I am making effort as a front-end engineer.
 
 ## Skills
 
-- JavaScript
-  - Vue.js
-  - React
 - Ruby
-  - Ruby on Rails
+- JavaScript
 
 ## Interests
 
 - JavaScript
-- Go
-- Julia 
+- Go 
 
 ## GitHub status
 
