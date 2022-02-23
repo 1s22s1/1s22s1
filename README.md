@@ -4,13 +4,13 @@ I'm interested in Mathematical model (ex-mathematician). Now, I am making effort
 
 ## Skills
 
-- Ruby
 - JavaScript
+- Rails
 
 ## Interests
 
+- Python
 - JavaScript
-- Go 
 
 ## GitHub status
 
