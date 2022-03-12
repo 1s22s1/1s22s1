@@ -10,6 +10,7 @@ I'm interested in Mathematical model (ex-mathematician). Now, I am making effort
 ## Interests
 
 - Julia
+- Python
 
 ## GitHub status
 
