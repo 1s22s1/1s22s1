@@ -1,6 +1,6 @@
 ## About
 
-I'm interested in Fractals (ex-mathematician). Now, I am making effort as a front-end engineer.
+I am making effort as a front-end engineer.
 
 ## Skills
 
