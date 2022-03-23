@@ -5,12 +5,10 @@ I am making effort as a front-end engineer.
 ## Skills
 
 - JavaScript
-- Rails
 
 ## Interests
 
 - Julia
-- Python
 
 ## GitHub status
 
