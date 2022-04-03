@@ -1,10 +1,6 @@
 ## About
 
-I am making effort as a front-end engineer.
-
-## Skills
-
-- JavaScript
+I am making effort as a engineer.
 
 ## Interests
 
