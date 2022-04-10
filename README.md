@@ -4,6 +4,7 @@ I am making effort as a engineer.
 
 ## Interests
 
+- Javascript
 - Julia
 
 ## GitHub status
