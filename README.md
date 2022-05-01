@@ -9,7 +9,7 @@ I am making effort as a engineer.
 
 ## GitHub status
 
-[![1s22s1's GitHub stats](https://github-readme-stats.vercel.app/api?username=1s22s1&theme=maroongold)](https://github.com/1s22s1)
+[![1s22s1's GitHub stats](https://github-readme-stats.vercel.app/api?username=1s22s1&theme=flag-india)](https://github.com/1s22s1)
 
 ## Top Langs
 
