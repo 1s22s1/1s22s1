@@ -1,10 +1,10 @@
 ## About
 
-I am making effort as a engineer.
+I am interested in Math.
 
 ## Interests
 
-- Javascript
+- Math
 - Julia
 
 ## GitHub status
