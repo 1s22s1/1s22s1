@@ -5,7 +5,7 @@
 
 ### Personalities
 
-- [仲介者 INFP-T](https://www.16personalities.com/ja/infp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)
+- [INFP-T](https://www.16personalities.com/ja/infp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)
 
 ### Most Used Languages
 
