@@ -1,8 +1,4 @@
-### Hey 🫧, I'm 1s22s1
-
-> [!IMPORTANT]
-> I am currently looking for a job.
-
+## Hey 🫧, I'm 1s22s1
 ### Personalities
 
 - [INFP-T](https://www.16personalities.com/ja/infp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)
