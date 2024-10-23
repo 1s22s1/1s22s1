@@ -1,4 +1,4 @@
-## Hey 🫧, I'm 1s22s1
+## Hey 🐟🐠🐡🫧, I'm 1s22s1
 
 > [!IMPORTANT]
 > I am currently looking for a job.
