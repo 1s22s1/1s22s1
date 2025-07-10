@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1s22s1&theme=ambient_gradient&locale=ja)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1s22s1&theme=synthwave&locale=ja)
